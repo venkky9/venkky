@@ -5,13 +5,7 @@
 			"myS3Bucket": {
 				 "Type" : "AWS::S3::Bucket",
 				 "Properties" : {
-							"BucketName" : "surajs3cft"
-				 }},
-			 	 
-			"myS3Bucket2": {
-				 "Type" : "AWS::S3::Bucket",
-				 "Properties" : {
-							"BucketName" : "surajs3cft2"
+							"BucketName" : "surajusingjenkinks"
 				 }}
 			 
 }
